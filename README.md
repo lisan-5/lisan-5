@@ -125,5 +125,4 @@
 </div>
 
 <div align="center">
-  <sup>Let's connect and build something extraordinary! 🌟</sup>
 </div>
