@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lisanegebriel_Abay&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ligator&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 </h2>
 
 <div align="center">
-  <p>👋 Hello! I'm Lisanegebriel, a Computer Science student at Addis Ababa University with a passion for technology and innovation. As a full-stack developer, app developer and cybersecurity enthusiast, I thrive on crafting robust web applications while ensuring they remain secure in our ever-evolving digital landscape. My journey spans across web development, mobile app creation, and digital security, always seeking to bridge the gap between functionality and safety. When I'm not coding, you'll find me exploring new security challenges or contributing to open-source projects that make the digital world a better place. 🚀</p>
+  <p>👋 Hello! I'm Lisanegebriel Abay, a Computer Science student at Addis Ababa University with a passion for technology and innovation. As a full-stack developer, app developer and cybersecurity enthusiast, I thrive on crafting robust web applications while ensuring they remain secure in our ever-evolving digital landscape. My journey spans across web development, mobile app creation, and digital security, always seeking to bridge the gap between functionality and safety. When I'm not coding, you'll find me exploring new security challenges or contributing to open-source projects that make the digital world a better place. 🚀</p>
 </div>
 
 <!-- Competitive Programming Stats -->
@@ -42,7 +42,7 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/lisanx?theme=dark&font=Adamina" width="400"/>
-  <img src="https://raw.githubusercontent.com/lisan-5/cf-stats/main/output/light_card.svg" width="400" alt="Codeforces Stats"/>
+  <img src="https://codeforces.com/profile/lisan5abay/cf-stats/main/output/light_card.svg" width="400" alt="Codeforces Stats"/>
 </div>
 
 <!-- Trophies -->
