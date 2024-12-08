@@ -42,7 +42,6 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/lisanx?theme=dark&font=Adamina" width="400"/>
-  <img src="https://codeforces.com/profile/lisan5abay/cf-stats/main/output/light_card.svg" width="400" alt="Codeforces Stats"/>
 </div>
 
 <!-- Trophies -->
