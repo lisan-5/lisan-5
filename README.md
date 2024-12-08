@@ -1,6 +1,6 @@
 <!-- Title Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lisan%20Islam&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lisanegebriel&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
 <div align="center">
@@ -9,11 +9,8 @@
   </a>
 </div>
 
-<!-- Profile Views & Social Links -->
+<!-- Social Links -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lisan-5&style=for-the-badge&color=0e75b6" alt="Profile Views">
-  
-  <!-- Social Links -->
   <a href="https://t.me/ligator">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
@@ -26,12 +23,16 @@
   <a href="https://codeforces.com/profile/lisan5abay">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces">
   </a>
-  <a href="https://linkedin.com/in/lisan-islam-5">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://fb.com/lisan.islam.5">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
+</div>
+
+<!-- About Me -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <b> About Me</b>
+</h2>
+
+<div align="center">
+  <p>👋 Hello! I'm Lisanegebriel, a Computer Science student at Addis Ababa University with a passion for technology and innovation. As a full-stack developer and cybersecurity enthusiast, I thrive on crafting robust web applications while ensuring they remain secure in our ever-evolving digital landscape. My journey spans across web development, mobile app creation, and digital security, always seeking to bridge the gap between functionality and safety. When I'm not coding, you'll find me exploring new security challenges or contributing to open-source projects that make the digital world a better place. 🚀</p>
 </div>
 
 <!-- Competitive Programming Stats -->
@@ -42,40 +43,13 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/lisanx?theme=dark&font=Adamina" width="400"/>
-  <!-- Add custom badge for Codeforces rating -->
-  <img src="https://cp-logo.vercel.app/codeforces/lisan5abay" alt="Codeforces" width="400"/>
+  <img src="https://raw.githubusercontent.com/lisan-5/cf-stats/main/output/light_card.svg" width="400" alt="Codeforces Stats"/>
 </div>
 
 <!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lisan-5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
-
-<!-- About Me -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  <b> About Me</b>
-</h2>
-
-```javascript
-const lisan = {
-    location: "🌍 Bangladesh",
-    education: "🎓 Computer Science & Engineering",
-    workingOn: "🚀 Building secure & scalable applications",
-    learning: ["Next.js", "TypeScript", "System Design", "Penetration Testing"],
-    competitive: {
-        leetcode: "⭐ 2000+ problems solved",
-        codeforces: "⚡ Specialist",
-        interests: ["Algorithms", "Data Structures", "Problem Solving"]
-    },
-    skills: {
-        security: ["Penetration Testing", "Web Security", "Network Security"],
-        development: ["Full Stack", "Mobile Apps", "API Design"],
-        devops: ["CI/CD", "Docker", "Cloud Services"]
-    },
-    funFact: "⚡ I debug like a detective in a crime scene"
-};
-```
 
 <!-- Skills -->
 <h2>
@@ -85,32 +59,32 @@ const lisan = {
 
 <div align="center">
   <!-- Programming & Markup -->
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   
   <!-- Frontend -->
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   
   <!-- Backend -->
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   
   <!-- Security Tools -->
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
   
   <!-- DevOps & Tools -->
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
 
 <!-- GitHub Stats -->
@@ -127,49 +101,6 @@ const lisan = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lisan-5&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
-
-<!-- Featured Projects -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
-  <b> Featured Projects</b>
-</h2>
-
-<div align="center">
-  <a href="https://gadget-bd-client.web.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lisan-5&repo=gadget-bd-client&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://toy-marketplace-client-b0c0c.web.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lisan-5&repo=toy-marketplace-client&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-### 🛍️ [Gadget-BD](https://gadget-bd-client.web.app/)
-> A cutting-edge e-commerce platform for electronics enthusiasts
-```yaml
-Tech Stack:
-  Frontend: ["React", "TailwindCSS", "Firebase Auth"]
-  Backend: ["Node.js", "Express", "MongoDB"]
-  DevOps: ["Firebase Hosting", "Vercel"]
-Features:
-  - 🛒 Real-time inventory management
-  - 🔐 Multi-factor authentication
-  - 💳 Stripe payment integration
-  - 📊 Advanced analytics dashboard
-```
-
-### 🎮 [Toy-Marketplace](https://toy-marketplace-client-b0c0c.web.app/)
-> A dynamic marketplace for toy collectors and enthusiasts
-```yaml
-Tech Stack:
-  Frontend: ["React", "TailwindCSS", "Firebase"]
-  Backend: ["Express", "MongoDB"]
-  Tools: ["JWT", "Axios"]
-Features:
-  - 🎯 AI-powered search recommendations
-  - ⭐ Dynamic rating system
-  - 🔒 Secure payment processing
-  - 📱 Progressive Web App (PWA)
-```
 
 <!-- Coding Activity -->
 <h2>
