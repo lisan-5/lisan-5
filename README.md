@@ -31,10 +31,9 @@
 </h2>
 
 <div align="center">
-  <p>👋 Hello! I'm Lisanegebriel Abay, a Computer Science student at Addis Ababa University with a passion for technology and innovation. As a full-stack developer, app developer and cybersecurity enthusiast, I thrive on crafting robust web applications while ensuring they remain secure in our ever-evolving digital landscape. My journey spans across web development, mobile app creation, and digital security, always seeking to bridge the gap between functionality and safety. When I'm not coding, you'll find me exploring new security challenges or contributing to open-source projects that make the digital world a better place. 🚀</p>
+  <p>👋 Hello! I'm Lisanegebriel Abay, a Computer Science student at Addis Ababa University with a passion for technology and innovation. As a full-stack developer, app developer and cybersecurity enthusiast, I thrive on crafting robust web applications while ensuring they remain secure in our ever-evolving digital landscape. I always seeking to bridge the gap between functionality and safety. When I'm not coding, you'll find me exploring new security challenges or contributing to open-source projects that make the digital world a better place. 🚀</p>
 </div>
 
-<!-- Competitive Programming Stats -->
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <b> Competitive Programming</b>
@@ -56,7 +55,6 @@
 </h2>
 
 <div align="center">
-  <!-- Programming & Markup -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -85,7 +83,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
 
-<!-- GitHub Stats -->
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
   <b> GitHub Stats</b>
@@ -100,7 +97,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lisan-5&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
-<!-- Coding Activity -->
 <h2>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
   <b> Problem Solving Activity</b>
@@ -113,7 +109,6 @@
 🌙 Night      18 commits     ████░░░░░░░░░░░░░░░░░░░   3.6%
 ```
 
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
