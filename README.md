@@ -118,4 +118,5 @@
 </div>
 
 <div align="center">
+  <sup>Let's connect and build something cool! 🌟</sup>
 </div>
