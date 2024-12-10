@@ -31,7 +31,7 @@
 </h2>
 
 <div align="center">
-  <p>👋 Hello! I'm Lisanegebriel Abay, a Computer Science student at Addis Ababa University with a passion for technology and innovation. As a full-stack developer, app developer and cybersecurity enthusiast, I thrive on crafting robust web applications while ensuring they remain secure in our ever-evolving digital landscape. I always seeking to bridge the gap between functionality and safety. When I'm not coding, you'll find me exploring new security challenges or contributing to open-source projects that make the digital world a better place. 🚀</p>
+  <p>👋 Hello! I'm Lisanegebriel Abay, a Computer Science student at Addis Ababa University with a passion for technology and innovation. As a full-stack developer, app developer and cybersecurity enthusiast, I thrive on crafting robust web applications while ensuring they remain secure in our ever-evolving digital landscape. I always seek to bridge the gap between functionality and safety.🚀</p>
 </div>
 
 <h2>
