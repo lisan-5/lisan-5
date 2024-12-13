@@ -98,13 +98,6 @@
   <b> Problem Solving Activity</b>
 </h2>
 
-```text
-🌅 Morning    142 commits    ███████░░░░░░░░░░░░░░░░   28.4%
-🌆 Daytime    184 commits    █████████░░░░░░░░░░░░░░   36.8%
-🌃 Evening    156 commits    ███████░░░░░░░░░░░░░░░░   31.2%
-🌙 Night      18 commits     ████░░░░░░░░░░░░░░░░░░░   3.6%
-```
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
