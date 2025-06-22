@@ -93,11 +93,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lisan-5&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  <b> Problem Solving Activity</b>
-</h2>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
