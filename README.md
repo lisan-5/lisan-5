@@ -99,8 +99,7 @@
 
 ![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
 <br/>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nathanaelcheramlak&base=209&label=Profile%20views&color=lightgrey&style=flat" alt="https://github.com/lisan-5" /> </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lisan-5&base=209&label=Profile%20views&color=lightgrey&style=flat" alt="https://github.com/lisan-5" /> </p>
 
 <div align="center">
 </div>
