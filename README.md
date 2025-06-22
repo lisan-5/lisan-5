@@ -103,9 +103,4 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=440&lines=Always+Learning%2C+Always+Growing!+%F0%9F%93%9A;Let's+Solve+Problems+Together!+%F0%9F%A4%9D" alt="Footer" />
-</div>
-
-<div align="center">
-  <sup>Let's connect and build something cool! 🌟</sup>
 </div>
