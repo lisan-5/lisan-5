@@ -97,11 +97,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lisan-5&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</div>
+![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
+<br/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nathanaelcheramlak&base=209&label=Profile%20views&color=lightgrey&style=flat" alt="https://github.com/lisan-5" /> </p>
 
 
 <div align="center">
