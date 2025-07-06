@@ -113,7 +113,4 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-  <p align="right" style="margin: 10px 20px 0 0;">
-    <img src="https://komarev.com/ghpvc/?username=lisan-5&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
-  </p>
 </div>
