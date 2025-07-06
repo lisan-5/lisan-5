@@ -32,7 +32,9 @@
 
 <div align="center">
   <p>👋 Hey, I'm Lisanegebriel Abay
+    
 Full-Stack Developer (MERN & Laravel) | CS Student @ Addis Ababa University
+    
 Building web apps and solving problems.</p>
 </div>
 
