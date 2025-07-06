@@ -2,14 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ligator&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
-<div align="center">
+<!-- Dynamic Typing Banner -->
+<div align="center" style="margin-top: -10px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%90;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Social Links -->
-<div align="center">
+<!-- Social Badges -->
+<div align="center" style="margin: 10px 0 20px;">
   <a href="https://t.me/ligator">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
@@ -24,39 +25,44 @@
   </a>
 </div>
 
-<!-- About Me -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  <b> About Me</b>
-</h2>
-
-<div align="center">
-  <p>👋 Hey, I'm Lisanegebriel Abay
-    
-Full-Stack Developer (MERN & Laravel) | CS Student @ Addis Ababa University
-    
-Building web apps and solving problems.</p>
+<!-- About Me Card -->
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; max-width: 80%; margin: 0 auto 25px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h2 style="margin: 0; color: #fff;">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+    <b> About Me</b>
+  </h2>
+  <p style="margin: 10px 0 0; color: #d1d5db;">
+    👋 Hey, I'm Lisanegebriel Abay<br><br>
+    Full-Stack Developer (MERN & Laravel) | CS Student @ Addis Ababa University<br><br>
+    Building web apps and solving problems.
+  </p>
 </div>
 
-<h2>
+<!-- Competitive Programming Section -->
+<h2 align="center" style="margin: 30px 0 15px;">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <b> Competitive Programming</b>
 </h2>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/lisanx?theme=dark&font=Adamina" width="400"/>
+<!-- Side-by-Side LeetCode and Languages -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 0 auto 30px; max-width: 90%;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://leetcard.jacoblin.cool/lisanx?theme=dark&font=Adamina&border=0&radius=10" width="50%" alt="LeetCode Stats">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <h3 align="center">📊 Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisan-5&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" width="50%" alt="Top Languages">
+  </div>
 </div>
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lisan-5&layout=compact&theme=dark)
-
-<!-- Skills -->
-<h2>
+<!-- Skills Grid -->
+<h2 align="center" style="margin: 30px 0 15px;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   <b> Skills & Tools</b>
 </h2>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; max-width: 800px; margin: 0 auto 30px;">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -73,37 +79,41 @@ Building web apps and solving problems.</p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   
-  <!-- Security Tools -->
+  <!-- Security -->
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
   
-  <!-- DevOps & Tools -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
 
-<h2>
+<!-- GitHub Stats Section -->
+<h2 align="center" style="margin: 30px 0 15px;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
   <b> GitHub Stats</b>
 </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisan-5&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisan-5&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="150" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0 auto 30px; max-width: 90%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisan-5&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisan-5&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="165">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lisan-5&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+<!-- Activity Graph -->
+<div align="center" style="margin: 0 auto 40px; max-width: 95%;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lisan-5&theme=react-dark&hide_border=true&area=true&height=300" width="100%" alt="Activity Graph">
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<!-- Snake Animation -->
+<div align="center" style="margin: 0 auto 30px; max-width: 95%;">
+  <img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation">
 </div>
 
-![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
-<br/>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lisan-5&base=209/> </p>
-
+<!-- Footer -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  <p align="right" style="margin: 10px 20px 0 0;">
+    <img src="https://komarev.com/ghpvc/?username=lisan-5&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
+  </p>
 </div>
