@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ligator&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lisanegebriel+Abay&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
 <!-- Dynamic Typing Banner -->
@@ -32,8 +32,8 @@
     <b> About Me</b>
   </h2>
   <p style="margin: 10px 0 0; color: #d1d5db;">
-    👋 Hey, I'm Lisanegebriel Abay<br><br>
-    Full-Stack Developer (MERN & Laravel) | CS Student @ Addis Ababa University<br><br>
+    👋
+     Full-Stack Developer (MERN & Laravel) | CS Student @ Addis Ababa University<br><br>
     Building web apps and solving problems.
   </p>
 </div>
