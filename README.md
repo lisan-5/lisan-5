@@ -108,8 +108,8 @@
 </div>
 
 <!-- Snake Animation -->
-<div align="center" style="margin: 0 auto 30px; max-width: 95%;">
-  <img src="https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=lisan-5" width="100%" alt="Snake Animation for lisan-5">
 </div>
 
 <!-- Footer -->
