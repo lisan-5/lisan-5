@@ -109,7 +109,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=lisan-5" width="100%" alt="Snake Animation for lisan-5">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=lisan-5" width="100%" alt="Snake Animation for lisan-5 (Dark Theme)">
 </div>
 
 <!-- Footer -->
