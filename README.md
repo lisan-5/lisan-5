@@ -33,7 +33,7 @@
   </h2>
   <p style="margin: 10px 0 0; color: #d1d5db;">
     👋
-     Full-Stack Developer (MERN & Laravel) | CS Student @ Addis Ababa University<br><br>
+     Full-Stack Developer (MERN & Laravel) <br><br>
     Building web apps and solving problems.
   </p>
 </div>
