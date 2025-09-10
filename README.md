@@ -104,13 +104,12 @@
 
 <!-- Activity Graph -->
 <div align="center" style="margin: 0 auto 40px; max-width: 95%;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lisan-5&theme=react-dark&hide_border=true&area=true&height=300" width="100%" alt="Activity Graph">
+  ![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
 </div>
 
-<!-- Snake Animation -->
-  <div align="center">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lisan-5&base=209&label=Profile%20views&color=lightgrey&style=flat" alt="https://github.com/lisan-5" /> </p>
-</div>
+---
+
+![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
 <div align="center">
