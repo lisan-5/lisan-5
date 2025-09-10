@@ -108,8 +108,8 @@
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=lisan-5" width="100%" alt="Snake Animation for lisan-5 (Dark Theme)">
+  <div align="center">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lisan-5&base=209&label=Profile%20views&color=lightgrey&style=flat" alt="https://github.com/lisan-5" /> </p>
 </div>
 
 <!-- Footer -->
