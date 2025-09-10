@@ -102,9 +102,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisan-5&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="165">
 </div>
 
-<div align="center" style="margin: 0 auto 40px; max-width: 95%;">
-  ![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
-</div>
+![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
 <div align="center">
