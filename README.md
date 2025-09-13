@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=lisan-5&style=flat-square&color=blue" alt="Profile views" />
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lisanegebriel+Abay&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
