@@ -5,7 +5,7 @@
 <!-- Dynamic Typing Banner -->
 <div align="center" style="margin-top: -10px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%90;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=440&lines=Full-stack+Developer+%F0%9F%92%BB;AI/ML;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
