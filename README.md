@@ -1,8 +1,6 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lisanegebriel+Abay&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f111a,100:1a1c2a&height=60&section=header&text=Lisanegebriel+Abay&fontSize=24&fontAlignY=35&fontColor=00ffcc" />
 </div>
-
 <!-- Dynamic Typing Banner -->
 <div align="center" style="margin-top: -10px;">
   <a href="https://git.io/typing-svg">
