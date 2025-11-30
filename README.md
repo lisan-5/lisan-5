@@ -39,11 +39,8 @@
 
 <!-- Side-by-Side LeetCode and Languages -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 0 auto 30px; max-width: 90%;">
+
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://leetcard.jacoblin.cool/lisanx?theme=dark&font=Adamina&border=0&radius=10" width="50%" alt="LeetCode Stats">
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <h3 align="center">📊 Most Used Languages</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisan-5&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" width="50%" alt="Top Languages">
   </div>
 </div>
