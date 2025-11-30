@@ -37,12 +37,6 @@
   </p>
 </div>
 
-<!-- Competitive Programming Section -->
-<h2 align="center" style="margin: 30px 0 15px;">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <b> Competitive Programming</b>
-</h2>
-
 <!-- Side-by-Side LeetCode and Languages -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 0 auto 30px; max-width: 90%;">
   <div style="flex: 1; min-width: 300px;">
