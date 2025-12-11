@@ -1,6 +1,33 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f111a,100:1a1c2a&height=60&section=header&text=Lisanegebriel+Abay&fontSize=24&fontAlignY=35&fontColor=00ffcc" />
-</div>
+<!-- Animated Gradient Background Header -->
+<div align="center" style="
+  padding: 40px 0;
+  background: linear-gradient(135deg, #0f111a, #1a1c2a);
+  border-radius: 12px;
+  animation: gradientShift 6s ease infinite;
+">
+
+  <!-- Neon Intro Text -->
+  <h1 style="
+    font-size: 38px;
+    font-weight: 700;
+    margin: 0;
+    color: #00ffcc;
+    text-shadow: 0 0 12px #00ffcc, 0 0 24px #00ffcc;
+  ">
+    👋 Hi, I'm Lisanegebriel Abay
+  </h1>
+
+<!-- Keyframes for animated gradient -->
+<style>
+@keyframes gradientShift {
+  0% { background: linear-gradient(135deg, #0f111a, #1a1c2a); }
+  50% { background: linear-gradient(135deg, #0f111a, #11202a); }
+  100% { background: linear-gradient(135deg, #0f111a, #1a1c2a); }
+}
+</style>
+
+
+
 <!-- Dynamic Typing Banner -->
 <div align="center" style="margin-top: -10px;">
   <a href="https://git.io/typing-svg">
