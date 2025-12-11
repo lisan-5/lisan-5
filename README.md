@@ -17,16 +17,6 @@
     👋 Hi, I'm Lisanegebriel Abay
   </h1>
 
-<!-- Keyframes for animated gradient -->
-<style>
-@keyframes gradientShift {
-  0% { background: linear-gradient(135deg, #0f111a, #1a1c2a); }
-  50% { background: linear-gradient(135deg, #0f111a, #11202a); }
-  100% { background: linear-gradient(135deg, #0f111a, #1a1c2a); }
-}
-</style>
-
-
 
 <!-- Dynamic Typing Banner -->
 <div align="center" style="margin-top: -10px;">
