@@ -45,21 +45,12 @@
 <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; max-width: 80%; margin: 0 auto 25px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h2 style="margin: 0; color: #fff;">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-    <b> About Me</b>
   </h2>
   <p style="margin: 10px 0 0; color: #d1d5db;">
     👋
      Full-Stack Developer | Software Engineer <br><br>
     Building web apps and solving problems.
   </p>
-</div>
-
-<!-- Side-by-Side LeetCode and Languages -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 0 auto 30px; max-width: 90%;">
-
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisan-5&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" width="50%" alt="Top Languages">
-  </div>
 </div>
 
 <!-- Skills Grid -->
