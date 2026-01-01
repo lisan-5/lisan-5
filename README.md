@@ -1,21 +1,8 @@
-<!-- Animated Gradient Background Header -->
-<div align="center" style="
-  padding: 40px 0;
-  background: linear-gradient(135deg, #0f111a, #1a1c2a);
-  border-radius: 12px;
-  animation: gradientShift 6s ease infinite;
-">
+<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
 
-  <!-- Neon Intro Text -->
-  <h1 style="
-    font-size: 38px;
-    font-weight: 700;
-    margin: 0;
-    color: #00ffcc;
-    text-shadow: 0 0 12px #00ffcc, 0 0 24px #00ffcc;
-  ">
-    👋 Hi, I'm Lisanegebriel Abay
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lisanegebriel%20Abay&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
 
 
 <!-- Dynamic Typing Banner -->
