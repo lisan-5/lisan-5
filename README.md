@@ -31,7 +31,6 @@
 <!-- About Me Card -->
 <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; max-width: 80%; margin: 0 auto 25px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h2 style="margin: 0; color: #fff;">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   </h2>
   <p style="margin: 10px 0 0; color: #d1d5db;">
     👋
@@ -80,8 +79,6 @@
   <b> GitHub Stats</b>
 </h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 0 auto 30px; max-width: 90%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisan-5&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisan-5&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="165">
 </div>
 
