@@ -34,7 +34,6 @@
   </h2>
   <p style="margin: 10px 0 0; color: #d1d5db;">
      Full-Stack Developer | Software Engineer <br><br>
-    Building web apps and solving problems.
   </p>
 </div>
 
