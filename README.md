@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1400&color=6366F1&center=true&vCenter=true&width=480&lines=Building+AI-powered+products+at+scale;Clean+architecture+%7C+Distributed+systems;LLM+pipelines+%7C+Real-world+ML+systems;Open+source+%7C+Competitive+programming" />
 </a>
 
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c7d2fe&labelColor=0d1117)](https://lisanabay.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6366f1&labelColor=0d1117)](https://www.linkedin.com/in/lisanegebriel-abay)
