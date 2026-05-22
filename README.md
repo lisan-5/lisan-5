@@ -132,7 +132,7 @@ Passionate about turning complex engineering problems into clean, scalable solut
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lisan-5&theme=onestar&no-frame=true&row=1&column=5&margin-w=14&title=Stars,Commits,PullRequest,Issues,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lisan-5&theme=onestar&no-frame=true&row=1&column=5&margin-w=14&title=Stars,Commits,Repositories" />
 </div>
 
 ---
@@ -156,5 +156,3 @@ Passionate about turning complex engineering problems into clean, scalable solut
 [![Gmail](https://img.shields.io/badge/Get%20in%20touch-1e1b4b?style=for-the-badge&logo=gmail&logoColor=f87171)](mailto:lisan5abay@gmail.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0d1117,100:0d1117&height=120&section=footer" />
