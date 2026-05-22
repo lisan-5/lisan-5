@@ -24,7 +24,7 @@
 <tr>
 <td width="55%">
 
-**Full-Stack Engineer & AI/ML Developer** who builds complete products — from intelligent backend systems and LLM-powered pipelines to polished, fast frontends.
+**Full-Stack Engineer & AI/ML Developer** who builds complete products, from intelligent backend systems and LLM-powered pipelines to polished, fast frontends.
 
 Passionate about turning complex engineering problems into clean, scalable solutions. Competitive programmer at heart, open-source contributor by habit.
 
