@@ -33,7 +33,7 @@
   <h2 style="margin: 0; color: #fff;">
   </h2>
   <p style="margin: 10px 0 0; color: #d1d5db;">
-     Full-Stack Developer | AI Engineer <br><br>
+     Software Engineer (Full-Stack & AI) <br><br>
   </p>
 </div>
 
