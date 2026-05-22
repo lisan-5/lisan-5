@@ -1,84 +1,160 @@
-<!-- ===================== HERO SECTION ===================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lisanegebriel%20Abay&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=180&section=header&text=Lisanegebriel%20Abay&fontSize=52&fontColor=c7d2fe&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems%20Design&descAlignY=68&descSize=16&descColor=6366f1" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1400&color=6366F1&center=true&vCenter=true&width=480&lines=Building+AI-powered+products+at+scale;Clean+architecture+%7C+Distributed+systems;LLM+pipelines+%7C+Real-world+ML+systems;Open+source+%7C+Competitive+programming" />
+</a>
 
+<br/><br/>
 
-<!-- Dynamic Typing Banner -->
-<div align="center" style="margin-top: -10px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=440&lines=Full-stack+Developer+%F0%9F%92%BB;AI/ML;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Social Badges -->
-<div align="center" style="margin: 10px 0 20px;">
-   <a href="https://www.linkedin.com/in/lisanegebriel-abay">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:lisan5abay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://leetcode.com/u/lisanx/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://t.me/ligator">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</div>
-
-<!-- About Me Card -->
-<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; max-width: 80%; margin: 0 auto 25px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <h2 style="margin: 0; color: #fff;">
-  </h2>
-  <p style="margin: 10px 0 0; color: #d1d5db;">
-     Software Engineer (Full-Stack & AI) <br><br>
-  </p>
-</div>
-
-<!-- Skills Grid -->
-<h2 align="center" style="margin: 30px 0 15px;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  <b> Skills & Tools</b>
-</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; max-width: 800px; margin: 0 auto 30px;">
-  <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
-
-  
-  <!-- Frontend Logos -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="40">
-
-<!-- Backend Logos -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40">
-
-  <!-- Tools -->
-<!-- Tool Logos -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" height="40">
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c7d2fe&labelColor=0d1117)](https://lisanabay.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6366f1&labelColor=0d1117)](https://www.linkedin.com/in/lisanegebriel-abay)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0d1117)](mailto:lisan5abay@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24&labelColor=0d1117)](https://leetcode.com/u/lisanx/)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=38bdf8&labelColor=0d1117)](https://t.me/ligator)
 
 </div>
 
-<!-- GitHub Stats Section -->
-<h2 align="center" style="margin: 30px 0 15px;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
-  <b> GitHub Stats</b>
-</h2>
+---
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisan-5&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="165">
+## About
+
+<table>
+<tr>
+<td width="55%">
+
+**Full-Stack Engineer & AI/ML Developer** who builds complete products — from intelligent backend systems and LLM-powered pipelines to polished, fast frontends.
+
+Passionate about turning complex engineering problems into clean, scalable solutions. Competitive programmer at heart, open-source contributor by habit.
+
+</td>
+<td width="45%">
+
+| | |
+|---|---|
+| 🔭 Building | AI-powered full-stack products |
+| 🧠 Focused on | LLMs · Distributed Systems |
+| 🏆 Also into | Competitive Programming |
+| 🤝 Open to | Collaborations · Projects |
+| 📬 Reach me | lisan5abay@gmail.com |
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6366f1)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=fbbf24)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=a78bfa)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=818cf8)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8)
+
+**AI / ML**
+
+![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square&logo=openai&logoColor=10b981)
+![NLP](https://img.shields.io/badge/NLP_Pipelines-0d1117?style=flat-square&logo=huggingface&logoColor=fbbf24)
+![Scikit](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=f97316)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=818cf8)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=38bdf8)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=22c55e)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=10b981)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=34d399)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=f87171)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=e2e8f0)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e2e8f0)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
+
+</td>
+<td valign="top" width="33%">
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=22c55e)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=38bdf8)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=38bdf8)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=fbbf24)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fbbf24)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f87171)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=a78bfa)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=f97316)
+
+</td>
+</tr>
+</table>
+
 </div>
 
-![GitHub Contribution Graph](https://github.com/AtaurRehman10/AtaurRehman10/blob/main/3D_file/github-contribution-grid-snake.svg)
+---
 
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-stats-alpha.vercel.app/api?username=lisan-5&cc=0d1117&tc=c7d2fe&ic=6366f1&bc=0d1117" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisan-5&theme=github_dark" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lisan-5&theme=transparent&hide_border=true&border_radius=10&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=c7d2fe&sideLabels=94a3b8&dates=4b5563&sideNums=c7d2fe&currStreakNum=c7d2fe" height="165"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lisan-5&theme=onestar&no-frame=true&row=1&column=5&margin-w=14&title=Stars,Commits,PullRequest,Issues,Repositories" />
+</div>
+
+---
+
+## 🐍 Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/See%20my%20work-1e1b4b?style=for-the-badge&logo=vercel&logoColor=c7d2fe)](https://lisanabay.vercel.app/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Get%20in%20touch-1e1b4b?style=for-the-badge&logo=gmail&logoColor=f87171)](mailto:lisan5abay@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0d1117,100:0d1117&height=120&section=footer" />
