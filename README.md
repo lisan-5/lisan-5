@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=180&section=header&text=Lisanegebriel%20Abay&fontSize=52&fontColor=c7d2fe&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems%20Design&descAlignY=68&descSize=16&descColor=6366f1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=180&section=header&text=Lisanegebriel%20Abay&fontSize=52&fontColor=c7d2fe&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20%E2%80%A2%20Frontend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems%20Design&descAlignY=68&descSize=16&descColor=6366f1" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1400&color=6366F1&center=true&vCenter=true&width=480&lines=Building+AI-powered+products+at+scale;Clean+architecture+%7C+Distributed+systems;LLM+pipelines+%7C+Real-world+ML+systems;Open+source+%7C+Competitive+programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1400&color=6366F1&center=true&vCenter=true&width=520&lines=Building+AI-powered+full-stack+products;Polished+UIs+%7C+Clean+architecture;LLM+pipelines+%7C+Real-world+ML+systems;Open+source+%7C+Competitive+programming" />
 </a>
 
 
@@ -12,10 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0d1117)](mailto:lisan5abay@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24&labelColor=0d1117)](https://leetcode.com/u/lisanx/)
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=38bdf8&labelColor=0d1117)](https://t.me/ligator)
-
-
 [![Profile Views](https://komarev.com/ghpvc/?username=lisan-5&style=for-the-badge&color=6366f1&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/lisan-5)
-
 
 </div>
 
@@ -27,7 +24,7 @@
 <tr>
 <td width="55%">
 
-**Full-Stack Engineer & AI/ML Developer** who builds complete products, from intelligent backend systems and LLM-powered pipelines to polished, fast frontends.
+**Full-Stack Engineer & AI/ML Developer** who builds complete products — from pixel-perfect, performant frontends and intuitive UIs to intelligent backend systems and LLM-powered pipelines.
 
 Passionate about turning complex engineering problems into clean, scalable solutions. Competitive programmer at heart, open-source contributor by habit.
 
@@ -36,8 +33,9 @@ Passionate about turning complex engineering problems into clean, scalable solut
 
 | | |
 |---|---|
-| 🔭 Building | AI-powered full-stack products |
-| 🧠 Focused on | LLMs · Distributed Systems |
+| 🎨 Crafting | Polished UIs & full-stack products |
+| 🔭 Building | AI-powered end-to-end systems |
+| 🧠 Focused on | LLMs · Frontend · Distributed Systems |
 | 🏆 Also into | Competitive Programming |
 | 🤝 Open to | Collaborations · Projects |
 | 📬 Reach me | lisan5abay@gmail.com |
@@ -76,6 +74,14 @@ Passionate about turning complex engineering problems into clean, scalable solut
 </td>
 <td valign="top" width="33%">
 
+**Frontend** ⭐
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e2e8f0)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=c7d2fe)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=e2e8f0)
+
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=22c55e)
@@ -83,12 +89,6 @@ Passionate about turning complex engineering problems into clean, scalable solut
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=34d399)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=f87171)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=e2e8f0)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e2e8f0)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
 
 </td>
 <td valign="top" width="33%">
@@ -135,7 +135,7 @@ Passionate about turning complex engineering problems into clean, scalable solut
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lisan-5&theme=onestar&no-frame=true&row=1&column=5&margin-w=14&title=Stars,Commits,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lisan-5&theme=darkhub&no-frame=true&no-bg=true&row=1&column=5&margin-w=14&title=Stars,Commits,Repositories,Followers,PullRequest" />
 </div>
 
 ---
