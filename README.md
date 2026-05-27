@@ -13,6 +13,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24&labelColor=0d1117)](https://leetcode.com/u/lisanx/)
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=38bdf8&labelColor=0d1117)](https://t.me/ligator)
 
+
+[![Profile Views](https://komarev.com/ghpvc/?username=lisan-5&style=for-the-badge&color=6366f1&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/lisan-5)
+
+
 </div>
 
 ---
