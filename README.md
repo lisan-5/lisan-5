@@ -136,18 +136,6 @@ Passionate about turning complex engineering problems into clean, scalable solut
 
 ---
 
-## 🐍 Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
----
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/See%20my%20work-1e1b4b?style=for-the-badge&logo=vercel&logoColor=c7d2fe)](https://lisanabay.vercel.app/)
