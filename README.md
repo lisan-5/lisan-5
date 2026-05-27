@@ -134,14 +134,6 @@ Passionate about turning complex engineering problems into clean, scalable solut
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lisan-5&theme=darkhub&no-frame=true&no-bg=true&row=1&column=5&margin-w=14&title=Stars,Commits,Repositories,Followers,PullRequest" />
-</div>
-
----
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/See%20my%20work-1e1b4b?style=for-the-badge&logo=vercel&logoColor=c7d2fe)](https://lisanabay.vercel.app/)
