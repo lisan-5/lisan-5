@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=180&section=header&text=Lisanegebriel%20Abay&fontSize=52&fontColor=c7d2fe&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20%E2%80%A2%20Frontend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems%20Design&descAlignY=68&descSize=16&descColor=6366f1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=180&section=header&text=Lisanegebriel%20Abay&fontSize=52&fontColor=c7d2fe&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems%20Design&descAlignY=68&descSize=16&descColor=6366f1" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1400&color=6366F1&center=true&vCenter=true&width=520&lines=Building+AI-powered+full-stack+products;Polished+UIs+%7C+Clean+architecture;LLM+pipelines+%7C+Real-world+ML+systems;Open+source+%7C+Competitive+programming" />
