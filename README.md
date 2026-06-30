@@ -8,7 +8,7 @@
 </a>
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c7d2fe&labelColor=0d1117)](https://lisanabay.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c7d2fe&labelColor=0d1117)](https://www.ligator.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6366f1&labelColor=0d1117)](https://www.linkedin.com/in/lisanegebriel-abay)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0d1117)](mailto:lisan5abay@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24&labelColor=0d1117)](https://leetcode.com/u/lisanx/)
