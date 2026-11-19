@@ -17,7 +17,6 @@
 
 I build backend systems and the LLM products that sit on them. Right now that's AI automation and async services at **Theseus Group**. Before that I worked on freight routing at **Spotter AI**, a national healthcare platform at **Haddis Art**, and geospatial and routing APIs at **Ambalay Maps** and **Brana** before that. I trained on **A2SV** with 1,000+ algorithm problems, and I care about the last 10% of the UI as much as the first 90% of the API.
 
-**Open to full-stack and AI engineering roles in the US and EU** — remote or relocation.
 
 <br>
 
