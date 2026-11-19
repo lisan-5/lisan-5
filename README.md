@@ -1,144 +1,66 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=180&section=header&text=Lisanegebriel%20Abay&fontSize=52&fontColor=c7d2fe&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems%20Design&descAlignY=68&descSize=16&descColor=6366f1" />
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1400&color=6366F1&center=true&vCenter=true&width=520&lines=Building+AI-powered+full-stack+products;Polished+UIs+%7C+Clean+architecture;LLM+pipelines+%7C+Real-world+ML+systems;Open+source+%7C+Competitive+programming" />
+<a href="https://www.ligator.tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Lisanegebriel Abay — Full-stack & AI engineer. Backend systems, LLM products and the occasional map." src="assets/header-light.svg" width="100%">
+  </picture>
 </a>
 
+<p align="center">
+  <a href="https://www.ligator.tech"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://vigilog.vercel.app">Vigil</a> &nbsp;·&nbsp;
+  <a href="https://askbaze.vercel.app">Askbase</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/lisanegebriel-abay">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:lisan5abay@gmail.com">lisan5abay@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/lisanx/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://t.me/ligator">Telegram</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c7d2fe&labelColor=0d1117)](https://www.ligator.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6366f1&labelColor=0d1117)](https://www.linkedin.com/in/lisanegebriel-abay)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0d1117)](mailto:lisan5abay@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24&labelColor=0d1117)](https://leetcode.com/u/lisanx/)
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=38bdf8&labelColor=0d1117)](https://t.me/ligator)
+I build backend systems and the LLM products that sit on them. Right now that's AI automation and async services at **Theseus Group**. Before that I worked on freight routing at **Spotter AI**, a national healthcare platform at **Haddis Art**, and geospatial and routing APIs at **Ambalay Maps** and **Brana** before that. I trained on **A2SV** with 1,000+ algorithm problems, and I care about the last 10% of the UI as much as the first 90% of the API.
 
+**Open to full-stack and AI engineering roles in the US and EU** — remote or relocation.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=lisan-5&style=for-the-badge&color=6366f1&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/lisan-5)
+<br>
 
-</div>
-
----
-
-## About
-
-<table>
-<tr>
-<td width="55%">
-
-**Full-Stack Engineer & AI/ML Developer** who builds complete products — from pixel-perfect, performant frontends and intuitive UIs to intelligent backend systems and LLM-powered pipelines.
-
-Passionate about turning complex engineering problems into clean, scalable solutions. Competitive programmer at heart, open-source contributor by habit.
-
-</td>
-<td width="45%">
-
-| | |
-|---|---|
-| 🎨 Crafting | Polished UIs & full-stack products |
-| 🔭 Building | AI-powered end-to-end systems |
-| 🧠 Focused on | LLMs · Frontend · Distributed Systems |
-| 🏆 Also into | Competitive Programming |
-| 🤝 Open to | Collaborations · Projects |
-| 📬 Reach me | lisan5abay@gmail.com |
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ Stack
-
-<div align="center">
+### Landmarks
 
 <table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6366f1)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=fbbf24)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=a78bfa)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=818cf8)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8)
-
-**AI / ML**
-
-![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square&logo=openai&logoColor=10b981)
-![NLP](https://img.shields.io/badge/NLP_Pipelines-0d1117?style=flat-square&logo=huggingface&logoColor=fbbf24)
-![Scikit](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=f97316)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=818cf8)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=38bdf8)
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend** ⭐
-
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e2e8f0)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=c7d2fe)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=e2e8f0)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=22c55e)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=10b981)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=34d399)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=f87171)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=e2e8f0)
-
-</td>
-<td valign="top" width="33%">
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=22c55e)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=38bdf8)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=38bdf8)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=fbbf24)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fbbf24)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f87171)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=a78bfa)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=f97316)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%"><a href="https://vigilog.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-vigil-dark.svg"><img alt="Vigil — a real-time observability console" src="assets/landmark-vigil-light.svg" width="100%"></picture></a></td>
+    <td width="50%"><a href="https://askbaze.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-askbase-dark.svg"><img alt="Askbase — plain English to SQL, run by DuckDB in the browser" src="assets/landmark-askbase-light.svg" width="100%"></picture></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://www.ligator.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-atlas-dark.svg"><img alt="Atlas — my portfolio as a living topographic map" src="assets/landmark-atlas-light.svg" width="100%"></picture></a></td>
+    <td width="50%"><a href="https://github.com/lisan-5/GridSense"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-gridsense-dark.svg"><img alt="GridSense — outage risk in Addis Ababa from community reports" src="assets/landmark-gridsense-light.svg" width="100%"></picture></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/lisan-5/Herald"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-herald-dark.svg"><img alt="Herald — signed, retried, replayable webhooks" src="assets/landmark-herald-light.svg" width="100%"></picture></a></td>
+    <td width="50%"><a href="https://github.com/lisan-5/Strata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-strata-dark.svg"><img alt="Strata — a repository's history as geological layers" src="assets/landmark-strata-light.svg" width="100%"></picture></a></td>
+  </tr>
 </table>
 
-</div>
+### The route
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/route-dark.svg">
+  <img alt="Career: AAU and A2SV → Ambalay Maps → Brana → Haddis Art → Spotter AI → Theseus Group → your team?" src="assets/route-light.svg" width="100%">
+</picture>
 
-## 📊 Stats
+### Terrain
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
+  <img alt="A year of GitHub contributions drawn as a ridgeline, one ridge per weekday" src="assets/terrain-light.svg" width="100%">
+</picture>
 
-<img src="https://github-stats-alpha.vercel.app/api?username=lisan-5&cc=0d1117&tc=c7d2fe&ic=6366f1&bc=0d1117" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisan-5&theme=github_dark" height="165"/>
+### Legend
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/legend-dark.svg">
+  <img alt="Skills: backend (Python, TypeScript, Node.js, FastAPI, Laravel, PostgreSQL), AI and ML (LLM integration, RAG and agents, scikit-learn), frontend (React, Next.js, TanStack Start, WebGL), foundations and ops (algorithms, Docker, CI/CD, Linux)" src="assets/legend-light.svg" width="100%">
+</picture>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lisan-5&theme=transparent&hide_border=true&border_radius=10&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=c7d2fe&sideLabels=94a3b8&dates=4b5563&sideNums=c7d2fe&currStreakNum=c7d2fe" height="165"/>
-</div>
+<br>
 
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/See%20my%20work-1e1b4b?style=for-the-badge&logo=vercel&logoColor=c7d2fe)](https://lisanabay.vercel.app/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Get%20in%20touch-1e1b4b?style=for-the-badge&logo=gmail&logoColor=f87171)](mailto:lisan5abay@gmail.com)
-
-</div>
+<p align="center">
+  <sub>Every graphic here is hand-built SVG — contours from marching squares over a noise field, no templates. The terrain is drawn from my real contribution calendar. Source in <a href="scripts/build.mjs"><code>scripts/build.mjs</code></a>.</sub>
+</p>
