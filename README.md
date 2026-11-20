@@ -15,7 +15,7 @@
   <a href="https://t.me/ligator">Telegram</a>
 </p>
 
-I'm an engineer first: AI, backend systems and full-stack products, hands on the code. Along the way I built AI automation and async services at **Theseus Group**, freight routing at **Spotter AI**, a national healthcare platform at **Haddis Art**, and geospatial and routing APIs at **Ambalay Maps** and **Brana**. I trained on **A2SV** with 1,000+ algorithm problems, and I care about the last 10% of the UI as much as the first 90% of the API.
+I'm an engineer first: AI, backend systems and full-stack products, hands on the code. I build AI agents that turn storyboards into deployable chatbots, plus the platform that tests them, at **Vivid Insights** in Sweden. Along the way I built AI automation and async services at **Theseus Group**, freight routing at **Spotter AI**, a national healthcare platform at **Haddis Art**, and geospatial and routing APIs at **Ambalay Maps** and **Brana**. I trained on **A2SV** with 1,000+ algorithm problems, and I care about the last 10% of the UI as much as the first 90% of the API.
 
 <br>
 
@@ -40,7 +40,7 @@ I'm an engineer first: AI, backend systems and full-stack products, hands on the
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/route-dark.svg">
-  <img alt="Career: AAU and A2SV → Ambalay Maps → Brana → Haddis Art → Spotter AI → Theseus Group → Spirit Hero (software developer, then CTO)" src="assets/route-light.svg" width="100%">
+  <img alt="Career: AAU and A2SV → Ambalay Maps → Brana → Haddis Art → Spotter AI → Theseus Group → Vivid Insights → Spirit Hero (software developer, then CTO)" src="assets/route-light.svg" width="100%">
 </picture>
 
 ### Terrain

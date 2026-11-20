@@ -75,6 +75,7 @@ export const ROUTE = [
   { at: "2025", name: "Haddis Art", role: "Full-stack developer" },
   { at: "2025", name: "Spotter AI", role: "AI & full-stack engineer" },
   { at: "2026", name: "Theseus Group", role: "Software engineer" },
+  { at: "2026", name: "Vivid Insights", role: "AI & full-stack engineer" },
   { at: "2026", name: "Spirit Hero", role: "Software developer → CTO", kind: "now" },
 ];
 
