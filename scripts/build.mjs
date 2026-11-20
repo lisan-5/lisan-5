@@ -187,9 +187,6 @@ function header(t) {
     <circle cx="76" cy="268" r="5.5" fill="${t.accent}"/>
     <text x="94" y="272" class="mono" font-size="11.5" letter-spacing="2" fill="${t.muted}">YOU ARE HERE · ${esc(PERSON.coords.toUpperCase())}</text>
   </g>
-  <g class="fade" style="animation-delay:2.2s">
-    <text x="40" y="384" class="serif" font-size="27" fill="${t.ink}">${esc(PERSON.role)} — <tspan font-style="italic" fill="${t.accent}">${esc(PERSON.tagline.charAt(0).toLowerCase() + PERSON.tagline.slice(1))}</tspan></text>
-  </g>
   <g>
     <circle cx="1096" cy="92" r="46" fill="${t.bg}" fill-opacity=".75" stroke="${t.muted}" stroke-opacity=".5"/>${ticks}
     <g class="needle"><path d="M1096 58 L1102 92 L1096 97 L1090 92 Z" fill="${t.accent}"/><path d="M1096 126 L1102 92 L1096 87 L1090 92 Z" fill="${t.muted}" fill-opacity=".5"/></g>
