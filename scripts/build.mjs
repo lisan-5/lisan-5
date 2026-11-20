@@ -295,7 +295,7 @@ function route(t) {
         ? `<circle cx="${x}" cy="${y}" r="9" fill="none" stroke="${t.accent}" class="ping"/><circle cx="${x}" cy="${y}" r="9" fill="${t.bg}" stroke="${t.accent}" stroke-width="2"/><circle cx="${x}" cy="${y}" r="4" fill="${t.accent}"/>`
         : s.kind === "depart"
           ? `<circle cx="${x}" cy="${y}" r="9" fill="${t.bg}" stroke="${t.accent}" stroke-width="2"/><circle cx="${x}" cy="${y}" r="4" fill="${t.ink}"/>`
-          : `<rect x="${x - 8}" y="${y - 8}" width="16" height="16" transform="rotate(45 ${x} ${y})" fill="${s.kind === "now" ? t.accent : t.bg}" stroke="${t.accent}" stroke-width="2"/>`;
+          : `${s.kind === "now" ? `<circle cx="${x}" cy="${y}" r="11" fill="none" stroke="${t.accent}" class="ping"/>` : ""}<rect x="${x - 8}" y="${y - 8}" width="16" height="16" transform="rotate(45 ${x} ${y})" fill="${s.kind === "now" ? t.accent : t.bg}" stroke="${t.accent}" stroke-width="2"/>`;
     return `<g class="wp" style="animation-delay:${delay.toFixed(2)}s">${mark}
       <text x="${x}" y="${ty - 20}" class="mono" font-size="11" letter-spacing="2" fill="${t.accent}" text-anchor="middle">${esc(s.at.toUpperCase())}</text>
       <text x="${x}" y="${ty}" class="serif" font-size="25" fill="${t.ink}" text-anchor="middle">${esc(s.name)}</text>

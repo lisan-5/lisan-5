@@ -1,7 +1,7 @@
 <a href="https://www.ligator.tech">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="Lisanegebriel Abay — Full-stack & AI engineer. Backend systems, LLM products and the occasional map." src="assets/header-light.svg" width="100%">
+    <img alt="Lisanegebriel Abay — CTO at Spirit Hero. Software engineer across AI, backend and full-stack." src="assets/header-light.svg" width="100%">
   </picture>
 </a>
 
@@ -15,8 +15,9 @@
   <a href="https://t.me/ligator">Telegram</a>
 </p>
 
-I build backend systems and the LLM products that sit on them. Right now that's AI automation and async services at **Theseus Group**. Before that I worked on freight routing at **Spotter AI**, a national healthcare platform at **Haddis Art**, and geospatial and routing APIs at **Ambalay Maps** and **Brana** before that. I trained on **A2SV** with 1,000+ algorithm problems, and I care about the last 10% of the UI as much as the first 90% of the API.
+I'm the **CTO at Spirit Hero**, where I lead technology strategy, architecture and full-stack engineering for a growing ecommerce and fundraising platform. I joined as a software developer in August 2026 and took over as CTO in October.
 
+I'm still an engineer first: AI, backend systems and full-stack products, hands on the code. Before Spirit Hero I built AI automation and async services at **Theseus Group**, freight routing at **Spotter AI**, a national healthcare platform at **Haddis Art**, and geospatial and routing APIs at **Ambalay Maps** and **Brana**. I trained on **A2SV** with 1,000+ algorithm problems, and I care about the last 10% of the UI as much as the first 90% of the API.
 
 <br>
 
@@ -41,7 +42,7 @@ I build backend systems and the LLM products that sit on them. Right now that's 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/route-dark.svg">
-  <img alt="Career: AAU and A2SV → Ambalay Maps → Brana → Haddis Art → Spotter AI → Theseus Group → your team?" src="assets/route-light.svg" width="100%">
+  <img alt="Career: AAU and A2SV → Ambalay Maps → Brana → Haddis Art → Spotter AI → Theseus Group → Spirit Hero (software developer, then CTO)" src="assets/route-light.svg" width="100%">
 </picture>
 
 ### Terrain

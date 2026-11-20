@@ -4,8 +4,8 @@ export const PERSON = {
   name: "LISANEGEBRIEL",
   surname: "Abay",
   handle: "lisan-5",
-  role: "Full-stack & AI engineer",
-  tagline: "Backend systems, LLM products and the occasional map.",
+  role: "CTO at Spirit Hero",
+  tagline: "Software engineer across AI, backend and full-stack.",
   coords: "9.0300° N · 38.7400° E · 2,355 m",
   home: "Addis Ababa",
 };
@@ -74,8 +74,8 @@ export const ROUTE = [
   { at: "2024", name: "Brana", role: "Full-stack developer" },
   { at: "2025", name: "Haddis Art", role: "Full-stack developer" },
   { at: "2025", name: "Spotter AI", role: "AI & full-stack engineer" },
-  { at: "2026", name: "Theseus Group", role: "Software engineer", kind: "now" },
-  { at: "next", name: "Your team?", role: "Open to work", kind: "next" },
+  { at: "2026", name: "Theseus Group", role: "Software engineer" },
+  { at: "2026", name: "Spirit Hero", role: "Software developer → CTO", kind: "now" },
 ];
 
 export const LEGEND = [
