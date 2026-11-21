@@ -21,8 +21,17 @@ export const PROJECTS = [
     label: "vigilog.vercel.app",
   },
   {
-    name: "Askbase",
+    name: "Murmur",
     grid: "A2",
+    glyph: "flock",
+    line: "A collaborative whiteboard that never falls apart: a CRDT sync engine written by hand, proven to converge through lag, loss and storms.",
+    stack: "CRDT · TypeScript · Canvas · WebSockets",
+    href: "https://mur-murs.vercel.app",
+    label: "mur-murs.vercel.app",
+  },
+  {
+    name: "Askbase",
+    grid: "B1",
     glyph: "receipt",
     line: "Ask your business data anything. Plain English to SQL with Claude, executed by DuckDB inside the browser — rows never leave the tab.",
     stack: "DuckDB-WASM · Claude API · TypeScript",
@@ -31,7 +40,7 @@ export const PROJECTS = [
   },
   {
     name: "Atlas",
-    grid: "B1",
+    grid: "B2",
     glyph: "contours",
     line: "My portfolio as a living topographic map: a WebGL contour field, a career drawn as a GPS route and a globe that flies out of Addis.",
     stack: "WebGL · TanStack Start · Framer Motion",
@@ -40,7 +49,7 @@ export const PROJECTS = [
   },
   {
     name: "GridSense",
-    grid: "B2",
+    grid: "C1",
     glyph: "grid",
     line: "Electricity outage patterns in Addis Ababa from anonymous community reports — a two-stage ML system for outage risk and impact.",
     stack: "Python · two-stage ML · Pandas",
@@ -49,7 +58,7 @@ export const PROJECTS = [
   },
   {
     name: "Herald",
-    grid: "C1",
+    grid: "C2",
     glyph: "signal",
     line: "Stripe-quality webhooks for any app: signed, retried with backoff, observable and replayable.",
     stack: "TypeScript · PostgreSQL · Redis",
@@ -58,7 +67,7 @@ export const PROJECTS = [
   },
   {
     name: "Strata",
-    grid: "C2",
+    grid: "D1",
     glyph: "strata",
     line: "Dig into any repository: a client-side visualiser that turns a repo's whole commit history into readable layers and eras.",
     stack: "React · D3 · Canvas",

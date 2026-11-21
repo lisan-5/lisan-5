@@ -235,6 +235,20 @@ function glyph(kind, t) {
       return `<circle cx="20" cy="75" r="6" fill="${t.accent}"/>${[30, 52, 74, 96, 118].map((r, i) => `<path d="M${20 + r * 0.7} ${75 - r * 0.7} A ${r} ${r} 0 0 1 ${20 + r * 0.7} ${75 + r * 0.7}" fill="none" stroke="${t.ink}" stroke-opacity="${0.8 - i * 0.13}" stroke-width="1.6"/>`).join("")}<text x="128" y="140" class="mono" font-size="10" fill="${t.muted}" text-anchor="end">200 OK · retry 3/5</text>`;
     case "strata":
       return [0, 1, 2, 3, 4, 5].map((i) => `<path d="M0 ${20 + i * 22} C 40 ${12 + i * 22 + (i % 2) * 10}, 100 ${30 + i * 22 - (i % 3) * 8}, 150 ${18 + i * 22}" fill="none" stroke="${i === 3 ? t.accent : t.ink}" stroke-opacity="${i === 3 ? 1 : 0.55}" stroke-width="${i === 3 ? 2.4 : 1.3}"/>`).join("");
+    case "flock": {
+      // a murmuration: small birds wheeling in a loose swirl, a few in the accent
+      let out = "";
+      for (let i = 0; i < 70; i++) {
+        const a = i * 2.39996;
+        const r = Math.sqrt(i / 70) * 62;
+        const x = 75 + Math.cos(a) * r * 1.15;
+        const y = 72 + Math.sin(a) * r * 0.62 + Math.sin(i) * 3;
+        const s = 3 + (i % 3);
+        const hot = i % 11 === 4;
+        out += `<path d="M${(x - s).toFixed(1)} ${(y - s * 0.5).toFixed(1)} Q ${x.toFixed(1)} ${(y + s * 0.3).toFixed(1)} ${(x + s).toFixed(1)} ${(y - s * 0.5).toFixed(1)}" fill="none" stroke="${hot ? t.accent : t.ink}" stroke-opacity="${hot ? 1 : 0.7}" stroke-width="1.4" stroke-linecap="round"/>`;
+      }
+      return out;
+    }
     default:
       return "";
   }

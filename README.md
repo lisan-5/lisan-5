@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.ligator.tech"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://vigilog.vercel.app">Vigil</a> &nbsp;·&nbsp;
+  <a href="https://mur-murs.vercel.app">Murmur</a> &nbsp;·&nbsp;
   <a href="https://askbaze.vercel.app">Askbase</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/lisanegebriel-abay">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:lisan5abay@gmail.com">lisan5abay@gmail.com</a> &nbsp;·&nbsp;
@@ -24,15 +25,19 @@ I'm an engineer first: AI, backend systems and full-stack products, hands on the
 <table>
   <tr>
     <td width="50%"><a href="https://vigilog.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-vigil-dark.svg"><img alt="Vigil — a real-time observability console" src="assets/landmark-vigil-light.svg" width="100%"></picture></a></td>
+    <td width="50%"><a href="https://mur-murs.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-murmur-dark.svg"><img alt="Murmur — a collaborative whiteboard on a hand-written CRDT" src="assets/landmark-murmur-light.svg" width="100%"></picture></a></td>
+  </tr>
+  <tr>
     <td width="50%"><a href="https://askbaze.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-askbase-dark.svg"><img alt="Askbase — plain English to SQL, run by DuckDB in the browser" src="assets/landmark-askbase-light.svg" width="100%"></picture></a></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://www.ligator.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-atlas-dark.svg"><img alt="Atlas — my portfolio as a living topographic map" src="assets/landmark-atlas-light.svg" width="100%"></picture></a></td>
-    <td width="50%"><a href="https://github.com/lisan-5/GridSense"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-gridsense-dark.svg"><img alt="GridSense — outage risk in Addis Ababa from community reports" src="assets/landmark-gridsense-light.svg" width="100%"></picture></a></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://github.com/lisan-5/GridSense"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-gridsense-dark.svg"><img alt="GridSense — outage risk in Addis Ababa from community reports" src="assets/landmark-gridsense-light.svg" width="100%"></picture></a></td>
     <td width="50%"><a href="https://github.com/lisan-5/Herald"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-herald-dark.svg"><img alt="Herald — signed, retried, replayable webhooks" src="assets/landmark-herald-light.svg" width="100%"></picture></a></td>
+  </tr>
+  <tr>
     <td width="50%"><a href="https://github.com/lisan-5/Strata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/landmark-strata-dark.svg"><img alt="Strata — a repository's history as geological layers" src="assets/landmark-strata-light.svg" width="100%"></picture></a></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
